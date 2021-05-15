@@ -53,7 +53,7 @@
 (display (eqv? (square-area 32) 1024))
 (display "\n")
 
-; ;triangle-area tests
+;triangle-area tests
 (display "Triangle Area tests: ")
 (display (eqv? (triangle-area 3 2) 3))
 (display "\n")
